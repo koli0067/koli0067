@@ -65,13 +65,8 @@ I believe in continuous learning, writing clean code, and improving through real
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/most-koli-khatun-50b804427/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-</p>
-
-📧 **Email:** kothakoli0067@gmail.com
+🔗 **LinkedIn:** [most-koli-khatun](https://www.linkedin.com/in/most-koli-khatun-50b804427/)[cite: 2]
+📧 **Email:** [kothakoli0067@gmail.com](mailto:kothakoli0067@gmail.com)[cite: 1, 2]
 
 ---
 
