@@ -28,6 +28,16 @@ Currently, I'm focused on improving my frontend development skills and expanding
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=koli0067&show_icons=true&theme=radial" alt="Koli's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koli0067&layout=compact&theme=radial" alt="Top Languages" />
+</p>
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ### Frontend
