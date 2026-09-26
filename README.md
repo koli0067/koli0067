@@ -1,46 +1,37 @@
-<h1 align="center">Hi 👋, I'm Koli </h1>
+# Hi 👋, I'm Koli
 
-<h3 align="center">
-  Frontend Developer | Aspiring Full-Stack Developer
-</h3>
-
-<p align="center">
-  I build modern, responsive, and user-friendly web applications.
-</p>
+### Frontend Developer | Aspiring Full-Stack Developer
+I build modern, responsive, and user-friendly web applications.
 
 ---
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
 I'm a passionate Frontend Developer who enjoys building modern and responsive web applications.
 
-I have been learning and working with technologies like HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, and Next.js.
-
-Currently, I'm focused on improving my frontend development skills and expanding my knowledge of backend technologies with the goal of becoming a Full-Stack Developer.
-
-- 💻 Currently working on: Frontend Development
-- 🌱 Currently learning: Full-Stack Development
-- 🎯 Goal: Become a Professional Full-Stack Developer
-- 📚 Course: Programming Hero
-- 🔧 Version Control: Git & GitHub
-- 💬 Comfortable with: Branching, Pushing, Pulling, Merging and Git workflows
-- 📫 Email: kothakoli0067@gmail.com
+- 💻 **Currently building:** Personal Frontend Web Projects
+- 🌱 **Currently learning:** Full-Stack Development
+- 🎯 **Goal:** Become a Professional Full-Stack Developer
+- 🎓 **Course:** Programming Hero
+- 🛠️ **Version Control:** Git & GitHub
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 ### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
-</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Tools & Version Control
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -63,11 +54,19 @@ I believe in continuous learning, writing clean code, and improving through real
 
 ---
 
-## 🤝 Connect With Me
+## 📊 GitHub Stats
 
-🔗 **LinkedIn:** [most-koli-khatun](https://www.linkedin.com/in/most-koli-khatun-50b804427/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=koli0067&show_icons=true&theme=tokyonight" alt="Koli's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koli0067&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-📧 **Email:** [kothakoli0067@gmail.com](mailto:kothakoli0067@gmail.com)
+---
+
+## 📬 Connect With Me
+
+- 🔗 **LinkedIn:** [most-koli-khatun](https://www.linkedin.com/in/most-koli-khatun-50b804427)
+- 📧 **Email:** [kothakoli0067@gmail.com](mailto:kothakoli0067@gmail.com)
 
 ---
 
@@ -75,6 +74,4 @@ I believe in continuous learning, writing clean code, and improving through real
 
 I enjoy learning new technologies and turning ideas into real-world web applications.
 
----
-
-⭐ Thanks for visiting my profile!
+⭐️ *Thanks for visiting my profile!*
