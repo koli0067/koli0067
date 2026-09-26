@@ -1,14 +1,9 @@
 
+<h1>Hi 👋, I'm Koli</h1>
 
+  <h2>💻 Frontend Developer | Aspiring Full-Stack Developer</h2>
 
-![Koli's Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Web%20Developer&fontSize=42&fontColor=38bdf8&animation=fadeIn)
-
-
-<h1 align="center">Hi 👋, I'm Koli</h1>
-
-  <h2 align="center">💻 Frontend Developer | Aspiring Full-Stack Developer</h2>
-
-<p align="center">
+<p>
   <i>"I build modern, responsive, and user-friendly web applications."</i>
 </p>
 
