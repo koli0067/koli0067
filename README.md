@@ -1,8 +1,16 @@
-# Hi 👋, I'm Koli
 
-## 💻 Frontend Developer | Aspiring Full-Stack Developer
 
-### *I build modern, responsive, and user-friendly web applications.*
+
+![Koli's Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Web%20Developer&fontSize=42&fontColor=38bdf8&animation=fadeIn)
+
+
+<h1 align="center">Hi 👋, I'm Koli</h1>
+
+  <h2 align="center">💻 Frontend Developer | Aspiring Full-Stack Developer</h2>
+
+<p align="center">
+  <i>"I build modern, responsive, and user-friendly web applications."</i>
+</p>
 
 ---
 
@@ -11,7 +19,7 @@
 **I'm a passionate Frontend Developer who enjoys building modern and responsive web applications.**
 
 - 💻 **Currently building:** Personal Frontend Projects
-- 🌱 **Currently learning:** Full-Stack Development
+- 🌱 **Currently learning:** Full-Stack Development & Next.js
 - 🎯 **Goal:** Become a Professional Full-Stack Developer
 - 📚 **Course:** Programming Hero
 - 🔧 **Version Control:** Git & GitHub
@@ -41,6 +49,7 @@
 - 🔄 **Practicing Git and GitHub workflows**
 - 🌱 **Learning backend development to become a Full-Stack Developer**
 
+
 ---
 
 ## 🎯 My Goal
@@ -65,4 +74,4 @@
 ---
 
 ## 💖 Thank you for visiting my profile!
-### *Have a great day ahead!* ✨
+#### *Have a great day ahead!* ✨
