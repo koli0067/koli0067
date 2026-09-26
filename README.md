@@ -1,14 +1,14 @@
 # Hi 👋, I'm Koli
 
-### Frontend Developer | Aspiring Full-Stack Developer
+## 💻 Frontend Developer | Aspiring Full-Stack Developer
 
-I build modern, responsive, and user-friendly web applications.
+### *I build modern, responsive, and user-friendly web applications.*
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a passionate Frontend Developer who enjoys building modern and responsive web applications.
+**I'm a passionate Frontend Developer who enjoys building modern and responsive web applications.**
 
 - 💻 **Currently building:** Personal Frontend Projects
 - 🌱 **Currently learning:** Full-Stack Development
@@ -34,20 +34,20 @@ I'm a passionate Frontend Developer who enjoys building modern and responsive we
 
 ## 📌 What I'm Currently Doing
 
-- 🚀 Building and improving frontend projects
-- 📖 Improving core JavaScript and TypeScript skills
-- ⚛️ Working with React and Next.js
-- 🎨 Creating responsive and user-friendly interfaces
-- 🔄 Practicing Git and GitHub workflows
-- 🌱 Learning backend development to become a Full-Stack Developer
+- 🚀 **Building and improving frontend projects**
+- 📖 **Improving core JavaScript and TypeScript skills**
+- ⚛️ **Working with React and Next.js**
+- 🎨 **Creating responsive and user-friendly interfaces**
+- 🔄 **Practicing Git and GitHub workflows**
+- 🌱 **Learning backend development to become a Full-Stack Developer**
 
 ---
 
 ## 🎯 My Goal
 
-My goal is to become a skilled Full-Stack Developer who can build complete, scalable, and user-friendly web applications from frontend to backend.
+**My goal is to become a skilled Full-Stack Developer who can build complete, scalable, and user-friendly web applications from frontend to backend.**
 
-I believe in continuous learning, writing clean code, and improving through real-world projects.
+*I believe in continuous learning, writing clean code, and improving through real-world projects.*
 
 ---
 
@@ -60,9 +60,9 @@ I believe in continuous learning, writing clean code, and improving through real
 
 ## ⚡ Fun Fact
 
-I enjoy learning new technologies and turning ideas into real-world web applications.
+**I enjoy learning new technologies and turning ideas into real-world web applications.**
 
 ---
 
-💖 **Thank you for visiting my profile!**  
-*Have a great day ahead!* ✨
+## 💖 Thank you for visiting my profile!
+### *Have a great day ahead!* ✨
