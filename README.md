@@ -1,4 +1,4 @@
-![logo](https://github.com/koli0067/koli0067/blob/main/Banner.png)
+![logo](https://github.com/koli0067/koli0067/blob/main/Github-Banner.png)
 <h1 align="center">Hi 👋, I'm Koli</h1>
 
   <h2 align="center">💻 Frontend Developer | Aspiring Full-Stack Developer</h2>
