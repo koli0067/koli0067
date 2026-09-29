@@ -1,9 +1,9 @@
+![logo](https://github.com/koli0067/koli0067/blob/main/Banner.png)
+<h1 align="center">Hi 👋, I'm Koli</h1>
 
-<h1>Hi 👋, I'm Koli</h1>
+  <h2 align="center">💻 Frontend Developer | Aspiring Full-Stack Developer</h2>
 
-  <h2>💻 Frontend Developer | Aspiring Full-Stack Developer</h2>
-
-<p>
+<p align="center">
   <i>"I build modern, responsive, and user-friendly web applications."</i>
 </p>
 
